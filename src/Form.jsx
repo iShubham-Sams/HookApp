@@ -8,6 +8,7 @@ const Form=()=>{
       const [newName,oldName]=useState();
     const youClick=(event)=>{
         event.preventDefault()
+        
         oldName(oldtex)
 
         newpass(oldpt)

@@ -11,6 +11,7 @@ const Digitalclock =()=>{
     }, 1000);
  
     
+    
     return(
     <>
         <h1>{old}</h1>
